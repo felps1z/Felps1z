@@ -2,7 +2,7 @@
 
 No meu ensino médio cursei Informática para Internet, onde trabalhei em diversos projetos de criação de sites em equipe e desenvolvi habilidades para resolução de problemas reais. Atualmente, estou cursando Engenharia da Computação e estou sempre em constante busca por aprendizado e melhoria, adquirindo conhecimentos em tecnologias novas para me manter atualizado e aprimorando minhas bases para ser um bom programador
 
-![https://cdn.picrew.me/shareImg/org/202404/2319404_m5snDIbc.png]
+[https://cdn.picrew.me/shareImg/org/202404/2319404_m5snDIbc.png]
 
 <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
