@@ -2,8 +2,12 @@
 
 No meu ensino médio cursei Informática para Internet, onde trabalhei em diversos projetos de criação de sites em equipe e desenvolvi habilidades para resolução de problemas reais. Atualmente, estou cursando Engenharia da Computação e estou sempre em constante busca por aprendizado e melhoria, adquirindo conhecimentos em tecnologias novas para me manter atualizado e aprimorando minhas bases para ser um bom programador
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="25"/>
-          
+<img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--
 **Felps1z/Felps1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
