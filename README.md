@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&pause=1000&color=5F25EE&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Felipe;Desenvolvedor+Front-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=EEEEEE&background=FFFFFF00&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Felipe)](https://git.io/typing-svg)
 
 No meu ensino médio cursei Informática para Internet, onde trabalhei em diversos projetos de criação de sites em equipe e desenvolvi habilidades para resolução de problemas reais. Atualmente, estou cursando Engenharia da Computação e estou sempre em constante busca por aprendizado e melhoria, adquirindo conhecimentos em tecnologias novas para me manter atualizado e aprimorando minhas bases para ser um bom programador
 
