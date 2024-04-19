@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=700&pause=1000&color=5F25EE&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Felipe;Desenvolvedor+Front-end)](https://git.io/typing-svg)
 
 <!--
 **Felps1z/Felps1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
