@@ -2,6 +2,8 @@
 
 No meu ensino médio cursei Informática para Internet, onde trabalhei em diversos projetos de criação de sites em equipe e desenvolvi habilidades para resolução de problemas reais. Atualmente, estou cursando Engenharia da Computação e estou sempre em constante busca por aprendizado e melhoria, adquirindo conhecimentos em tecnologias novas para me manter atualizado e aprimorando minhas bases para ser um bom programador
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=felps1z\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+
 <!--
 **Felps1z/Felps1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
