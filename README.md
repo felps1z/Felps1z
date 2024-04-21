@@ -7,8 +7,6 @@
 ## ☝🏻 About me
 I had contact with programming from an early age 👶🏻, in my high school I studied Internet Computing at IFPE 🧑🏻‍🎓, where I was able to learn various concepts of web development. I am currently studying Computer Engineering at UFRPE, where I am strengthening my foundation in computer science to prepare for a career as a full-stack developer in the future 🤓.
 
-<br>
-
 ## 🚀 My technology stack
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -20,13 +18,13 @@ I had contact with programming from an early age 👶🏻, in my high school I s
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-<br>
 
 ### Other organization tools I use in my day-to-day
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
+
 <br>
 
 ## 🔥 My Github Stats
@@ -52,6 +50,5 @@ I had contact with programming from an early age 👶🏻, in my high school I s
 
 ## Contact me
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
