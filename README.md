@@ -1,21 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+![felps1z's Stats](https://github-readme-stats.vercel.app/api?username=felps1z&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![felps1z's Streak](https://github-readme-streak-stats.herokuapp.com/?user=felps1z&theme=tokyonight&hide_border=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=300&size=50&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Felipe;I'm+18+years+old;I'm+from+Brazil)](https://git.io/typing-svg)
-
+## My technology stack
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
 <br>
-<br>
 
-No meu ensino médio cursei Informática para Internet, onde trabalhei em diversos projetos de criação de sites em equipe e desenvolvi habilidades para resolução de problemas reais. Atualmente, estou cursando Engenharia da Computação e estou sempre em constante busca por aprendizado e melhoria, adquirindo conhecimentos em tecnologias novas para me manter atualizado e aprimorando minhas bases para ser um bom programador
+![felps1z's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felps1z&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-[https://cdn.picrew.me/shareImg/org/202404/2319404_m5snDIbc.png]
-
-<img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  
 <!--
 **Felps1z/Felps1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
