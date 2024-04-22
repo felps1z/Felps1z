@@ -1,33 +1,38 @@
-# Hello! my name is Felipe
+# Felipe dos Santos
+I'm a Front-end developer with a passion for creating immersive web experiences, I'm currently studying to become Full-stack 🌱. I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out ✏️. In addition to development, I have a special interest in design, you can see it in my own programming projects 😁.
 
-## 🧑🏻‍💻 Full-Stack/Front-end developer
-- I'm a Front-end developer with a passion for creating immersive web experiences, I'm currently studying to become Full-stack 🌱. <br>
-- I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out ✏️. In addition to development, I have a special interest in design, you can see it in my own programming projects 😁.
-
-## ☝🏻 About me
-I had contact with programming from an early age 👶🏻, in my high school I studied Internet Computing at IFPE 🧑🏻‍🎓, where I was able to learn various concepts of web development. I am currently studying Computer Engineering at UFRPE, where I am strengthening my foundation in computer science to prepare for a career as a full-stack developer in the future 🤓.
-
-## 🚀 My technology stack
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div>
-
-### Other organization tools I use in my day-to-day
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-</div>
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Computer Engineering at UFRPE.
+- 🌱 Learning more about JavaScript.
 
 <br>
 
-## 🔥 My Github Stats
+## 🚀 My Skills
+
+**Applications and data**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Development Tools**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+### ⭐ Github Anaytics
 <details>
   <summary> Top Languages </summary>
   <p>
@@ -48,7 +53,9 @@ I had contact with programming from an early age 👶🏻, in my high school I s
 </details>
 <br>
 
-## ✉️ Contact me
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+## 📫 Where to find me
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/felps1z?label=follow&style=social)](https://github.com/Felps1z)
+
