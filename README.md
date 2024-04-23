@@ -55,7 +55,7 @@ I'm a Front-end developer with a passion for creating immersive web experiences,
 
 ## 📫 Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-felps1z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-felps1z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fesantos-dev)](https://linkedin.com/in/fesantos-dev)
 [![Gmail Badge](https://img.shields.io/badge/-fesantos.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fesantos.dev@gmail.com)](mailto:fesantos.dev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/felps1z?label=follow&style=social)](https://github.com/Felps1z)
 
