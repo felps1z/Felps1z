@@ -3,7 +3,7 @@ I'm a Front-end developer with a passion for creating immersive web experiences,
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Engineering at UFRPE.
-- 🌱 Learning more about JavaScript.
+- 🌱 Learning more about JavaScript, React and TypeScript.
 
 <br>
 
