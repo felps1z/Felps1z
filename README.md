@@ -16,8 +16,6 @@ I'm a Front-end developer with a passion for creating immersive web experiences,
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
 
