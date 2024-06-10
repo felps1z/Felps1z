@@ -1,3 +1,7 @@
+<img src="https://previews.dropbox.com/p/thumb/ACTUvmWzJR6V9dlylFYST4eBBD3_ukRc7AdbRD9r-EZDVRS_u28v1aBLeptbJdiKa3Qievx4rczsC6m_0DrnEuR3FEdUU3W6KW2-RgxxHV8oCkiFViGR7BYPDQih7Kt975_iii-wJFK2vCEcowwLET7tHxtWHyY4xu6tarLl8v3FqXJaYJN6fO0QHkre6MxIhc3py4vSWGJfAx8FaZltRmL-SqukNbnKaH8FjOUforHalqWTVDSAAkHHBkcD0T9Zllv6_CtY4obfbNX1HAa_JmoHCvTgbIx-DvA5oP7M6pJgx-aTF0f1tNMBSQpEPavw3UaSJYYM0OdKeGAVo1cDLuNe/p.png" alt="My banner">
+
+![](https://www.dropbox.com/scl/fi/v8pgewhumn06kn52dv0sz/Blue-and-White-Geometric-Modern-Personal-LinkedIn-Banner.png?rlkey=qssgvgvv9jf0q5984zryf3377&st=cjv8kpvi&dl=0)
+
 # Felipe dos Santos
 I'm a Front-end developer with a passion for creating immersive web experiences, I'm currently studying to become Full-stack. I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out. In addition to development, I have a special interest in design, you can see it in my own programming projects.
 
