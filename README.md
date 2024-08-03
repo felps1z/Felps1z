@@ -13,7 +13,7 @@ I'm a Front-end developer with a passion for creating immersive web experiences,
 
 **Languages and Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,webpack,babel,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel)](https://skillicons.dev)
 
 **Frameworks/Libraries and Data**
 
@@ -21,7 +21,7 @@ I'm a Front-end developer with a passion for creating immersive web experiences,
 
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,webpack,npm)](https://skillicons.dev)
 
 <br>
 
