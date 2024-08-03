@@ -11,13 +11,17 @@ I'm a Front-end developer with a passion for creating immersive web experiences,
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> My Skills
 
-**Technologies**
+**Languages and Technologies**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,webpack,babel,npm)](https://skillicons.dev)
 
-**Development Tools**
+**Frameworks/Libraries and Data**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,express,mongodb)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
 <br>
 
