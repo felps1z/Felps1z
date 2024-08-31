@@ -11,7 +11,7 @@ I’m a full-stack web developer with a passion to create organized and function
 
 **Languages and Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,webpack)](https://skillicons.dev)
 
 **Frameworks and Libraries**
 
@@ -19,7 +19,7 @@ I’m a full-stack web developer with a passion to create organized and function
 
 **Tools and Data**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,webpack,npm,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma,npm,mongodb)](https://skillicons.dev)
 
 <br>
 
