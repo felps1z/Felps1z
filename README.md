@@ -13,13 +13,13 @@ I’m a full-stack web developer with a passion to create organized and function
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,babel)](https://skillicons.dev)
 
-**Frameworks/Libraries and Data**
+**Frameworks and Libraries**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,express)](https://skillicons.dev)
 
-**Tools**
+**Tools and Data**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,webpack,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,webpack,npm,mongodb)](https://skillicons.dev)
 
 <br>
 
