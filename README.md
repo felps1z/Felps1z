@@ -1,5 +1,3 @@
-<img src="https://lh3.googleusercontent.com/pw/AP1GczM87DFFlbtrMww-iFfUvN-9DUsgRotRW2L4NId_yfMU9QICK2NzdKMA1YZkO19mP_NWIzh5CNmmvOPBQsoNzmFwWwAm3BQtPbWbo4LL514BQHXvnCjZM-bNTXlcfr2Q7Ra2fLYURjKIZ6qHQRFQwLdm=w1366-h342-s-no-gm?authuser=0" alt="My banner">
-
 # Hi there!
 I'm a Front-end developer with a passion for creating immersive web experiences, I'm currently studying to become Full-stack. I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out. In addition to development, I have a special interest in design, you can see it in my own programming projects.
 
