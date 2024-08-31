@@ -19,7 +19,7 @@ I’m a full-stack web developer with a passion to create organized and function
 
 **Tools and Data**
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,figma,npm,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,figma,mongodb)](https://skillicons.dev)
 
 <br>
 
