@@ -2,7 +2,7 @@
 I’m a full-stack web developer with a passion to create organized and functional web applications. I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out. In addition to development, I have a special interest in design, you can see it in my own programming projects.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Exploring new technologies and developing software solutions.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> IT Technician and Computer Engineering student at UFRPE.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> IT Technician and Software Engineering Student at IFPE.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Learning more about JavaScript, React and TypeScript.
 
 <br/>
