@@ -1,3 +1,5 @@
+![](https://lh3.googleusercontent.com/pw/AP1GczOCUunPZczyy8erWZDYJ9pGWdEhtJrXyTQjJrI5OZsMmcgkiyOCVXNtFxhtvaU1uaoeJEvp_bDvAVABYfQt-dqdYDcXU2N_Qx2lGfqMAXmmvLZ7aqLkLkbMbp1A8JbRC0XtXsyqu-K1qMXfcLM_763b=w1366-h342-s-no-gm?authuser=0)
+
 # Hi there!
 I’m a full-stack web developer with a passion to create organized and functional web applications. I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out. In addition to development, I have a special interest in design, you can see it in my own programming projects.
 
