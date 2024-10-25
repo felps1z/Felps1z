@@ -1,6 +1,6 @@
 ![](https://lh3.googleusercontent.com/pw/AP1GczOCUunPZczyy8erWZDYJ9pGWdEhtJrXyTQjJrI5OZsMmcgkiyOCVXNtFxhtvaU1uaoeJEvp_bDvAVABYfQt-dqdYDcXU2N_Qx2lGfqMAXmmvLZ7aqLkLkbMbp1A8JbRC0XtXsyqu-K1qMXfcLM_763b=w1366-h342-s-no-gm?authuser=0)
 
-# Hi there!
+# Hi there! 👋🏼
 I’m a full-stack web developer with a passion to create organized and functional web applications. I'm constantly improving my JavaScript skills and exploring the latest technologies to ensure my projects stand out. In addition to development, I have a special interest in design, you can see it in my own programming projects.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="25" height="25" /> Exploring new technologies and developing software solutions.
