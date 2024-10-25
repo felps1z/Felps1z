@@ -50,5 +50,4 @@ I’m a full-stack web developer with a passion to create organized and function
 
 [![Linkedin](https://img.shields.io/badge/-felps1z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/)]()
 [![Gmail Badge](https://img.shields.io/badge/-fesantos.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fesantos.dev@gmail.com)](mailto:fesantos.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/felps1z?label=follow&style=social)](https://github.com/Felps1z)
 
