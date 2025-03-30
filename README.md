@@ -13,7 +13,7 @@ I’m a full-stack web developer with a passion to create organized and function
 
 **Languages and Technologies**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,babel,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,babel,webpack)](https://skillicons.dev)
 
 **Frameworks and Libraries**
 
