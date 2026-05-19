@@ -23,29 +23,6 @@ I’m a full-stack web developer with a passion to create organized and function
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felps1z&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Github Analytics
-<details>
-  <summary> Top Languages </summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felps1z&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="felps1z's Top Languages">
-  </p>
-</details>
-<details>
-  <summary> Github Stats </summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=felps1z&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="felps1z's Stats">
-  </p>
-</details>
-<details>
-  <summary> My Streak </summary>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felps1z&theme=dark&hide_border=true" alt="felps1z's Streak">
-  </p>
-</details>
-<br>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-felps1z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/felps1z)](https://www.linkedin.com/in/felps1z/)
