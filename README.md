@@ -48,4 +48,4 @@ I’m a full-stack web developer with a passion to create organized and function
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Where to find me
 
-[![Linkedin](https://img.shields.io/badge/-felps1z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/felps1z)]()
+[![Linkedin](https://img.shields.io/badge/-felps1z-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/felps1z)](https://www.linkedin.com/in/felps1z/)
